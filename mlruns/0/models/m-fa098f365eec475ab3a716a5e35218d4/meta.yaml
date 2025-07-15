@@ -1,0 +1,10 @@
+artifact_location: file:///Users/siddharthsuribabu/datascience/titanic-mlops/mlruns/0/models/m-fa098f365eec475ab3a716a5e35218d4/artifacts
+creation_timestamp: 1752621257853
+experiment_id: '0'
+last_updated_timestamp: 1752621259834
+model_id: m-fa098f365eec475ab3a716a5e35218d4
+model_type: null
+name: model
+source_run_id: 8622fe3b4a79447a92f4b5a014a84717
+status: 2
+status_message: null

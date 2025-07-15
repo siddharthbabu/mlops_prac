@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/siddharthsuribabu/datascience/titanic-mlops/mlruns/0/8622fe3b4a79447a92f4b5a014a84717/artifacts
+end_time: 1752621259836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8622fe3b4a79447a92f4b5a014a84717
+run_name: rumbling-quail-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752621257747
+status: 3
+tags: []
+user_id: siddharthsuribabu
